@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "今天是 2023 年最后一天了",
+      "datetime": "December 31, 2023 11:13:12 PM",
+      "body": "这一年过得好快"
+    },
+    {
+      "id": 2,
+      "title": "明天就是 2024 年了",
+      "datetime": "December 31, 2023 11:13:56 PM",
+      "body": "感觉时间过得真快啊"
+    },
+    {
+      "id": 3,
+      "title": "又到晚上了",
+      "datetime": "December 31, 2023 11:15:06 PM",
+      "body": "是 emo 时间到了"
+    }
+  ]
+}
